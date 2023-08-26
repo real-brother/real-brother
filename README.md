@@ -24,8 +24,8 @@
       steps:
         - uses: anmol098/waka-readme-stats@master
           with:
-            WAKATIME_API_KEY: ${{ waka_919471ea-0079-433a-bb59-5004d11dc215 }}
-            GH_TOKEN: ${{ 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 }}
+            WAKATIME_API_KEY: ${{  }}
+            GH_TOKEN: ${{  }}
 <!--END_SECTION:waka-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freal-brother%2Fhit-counter&count_bg=%230077C8&title_bg=%23004094&icon=&icon_color=%23A21919&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
