@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-brother&exclude_repo=real-brother.github.io&layout=compact&theme=tokyonight" />
 </a>
 
-[![real-brother's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=real_brother)]
+![real-brother's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=real_brother)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhassa1)](https://solved.ac/hjhassa1)
