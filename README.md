@@ -10,4 +10,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=real-brother&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freal-brother%2Fhit-counter&count_bg=%230077C8&title_bg=%23004094&icon=&icon_color=%23A21919&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
